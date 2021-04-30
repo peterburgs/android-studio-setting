@@ -3,7 +3,7 @@
     <property name="created">2021-02-03T21:44:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-02-26T08:26:04</property>
+    <property name="modified">2021-04-30T15:52:59</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -26,6 +26,11 @@
       <value>
         <option name="FOREGROUND" value="d78720" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="494b7" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -330,7 +335,7 @@
     </option>
     <option name="JAVA_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="90ff" />
+        <option name="FOREGROUND" value="bc0eb4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
