@@ -3,7 +3,7 @@
     <property name="created">2021-02-03T21:44:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-04-30T17:20:41</property>
+    <property name="modified">2021-05-01T11:16:05</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -25,6 +25,12 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d78720" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2c9ebe" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -325,6 +331,12 @@
     <option name="JAVA_NUMBER">
       <value>
         <option name="FOREGROUND" value="1c85e5" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JAVA_PARENTH">
+      <value>
+        <option name="FOREGROUND" value="ee8a49" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
