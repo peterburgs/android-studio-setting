@@ -1,0 +1,21 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2021-05-02T09:53:44</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.1.1.0.0</property>
+    <property name="modified">2021-05-02T10:06:36</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="379f5" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b90aca" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

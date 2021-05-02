@@ -3,7 +3,7 @@
     <property name="created">2021-02-03T21:44:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-05-01T22:08:56</property>
+    <property name="modified">2021-05-02T09:40:55</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -24,7 +24,7 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d78720" />
+        <option name="FOREGROUND" value="2072d7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -310,9 +310,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JAVA_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="d6198a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JAVA_COMMA">
       <value>
-        <option name="FOREGROUND" value="12b18c" />
+        <option name="FOREGROUND" value="71fec" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -320,6 +326,12 @@
       <value>
         <option name="FOREGROUND" value="198005" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JAVA_DOT">
+      <value>
+        <option name="FOREGROUND" value="a67ef" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
@@ -340,15 +352,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JAVA_PARENTH">
+    <option name="JAVA_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="ee8a49" />
+        <option name="FOREGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JAVA_SEMICOLON">
+    <option name="JAVA_PARENTH">
       <value>
-        <option name="FOREGROUND" value="90ff" />
+        <option name="FOREGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
